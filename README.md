@@ -254,7 +254,7 @@ Key findings:
 - Durbin-Watson: **2.012** (no autocorrelation)
 - OOS Sharpe (2021–2025): **2.998** — exceeds in-sample
 <img width="2637" height="1166" alt="fig2_regime_distributions" src="https://github.com/user-attachments/assets/8d7e08d6-67f8-4cc5-8149-ba0fdd0553ea" />
-<img width="2910" height="2322" alt="fig3_pair_contributions" src="https://github.com/user-attachments/assets/4d5f7abe-c978-4d14-9e65-4de94e961191" />
+<img width="3012" height="1579" alt="fig3_pair_contributions" src="https://github.com/user-attachments/assets/1c5a3487-8311-46f1-8dbb-b607d33f1b24" />
 <img width="2185" height="1809" alt="fig4_regime_probabilities" src="https://github.com/user-attachments/assets/3e4b1e8c-5c94-4916-bd83-b9023b608636" />
 
 ---
