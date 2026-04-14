@@ -253,7 +253,7 @@ Key findings:
 - Bootstrap 95% CI for Sharpe: **[2.24, 3.39]**
 - Durbin-Watson: **2.012** (no autocorrelation)
 - OOS Sharpe (2021–2025): **2.998** — exceeds in-sample
-<img width="2637" height="1166" alt="fig2_regime_distributions" src="https://github.com/user-attachments/assets/9c171795-c590-4bc6-8b8a-d1b99ec0
+<img width="2637" height="1166" alt="fig2_regime_distributions" src="https://github.com/user-attachments/assets/8d7e08d6-67f8-4cc5-8149-ba0fdd0553ea" />
 <img width="2910" height="2322" alt="fig3_pair_contributions" src="https://github.com/user-attachments/assets/4d5f7abe-c978-4d14-9e65-4de94e961191" />
 <img width="2185" height="1809" alt="fig4_regime_probabilities" src="https://github.com/user-attachments/assets/3e4b1e8c-5c94-4916-bd83-b9023b608636" />
 
