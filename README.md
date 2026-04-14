@@ -4,6 +4,7 @@
 
 > A regime-aware statistical arbitrage framework applied to the S&P 100 universe (2013–2025).
 > Net Sharpe 2.534 · Max Drawdown −5.33% · 13 consecutive positive years · Beta 0.009
+<img width="2258" height="2450" alt="fig1_equity_curve" src="https://github.com/user-attachments/assets/f694fcc9-e7b1-4863-8df0-26616b636a82" />
 
 ---
 
